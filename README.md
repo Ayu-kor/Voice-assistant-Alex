@@ -7,6 +7,7 @@ Welcome to the Alex project! Alex is a Python-powered voice assistant capable of
   Get the current time.
   Basic conversational responses.
   Open websites (e.g., YouTube).
+  
 **Tech Stack:**
   **Language:** Python
   **Libraries:**
@@ -15,6 +16,7 @@ Welcome to the Alex project! Alex is a Python-powered voice assistant capable of
     **pywhatkit** for playing YouTube videos.
     **wikipedia-api** for fetching Wikipedia summaries.
     **webbrowser** for opening websites.
+    
 **Installation:**
   **Prerequisites:**
     Python 3.x installed on your system.
