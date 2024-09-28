@@ -3,15 +3,15 @@ Welcome to the Alex project! Alex is a Python-powered voice assistant capable of
 
 **Features: **
 
-  Play YouTube videos via voice command.
+     Play YouTube videos via voice command.
   
-  Retrieve information from Wikipedia.
+     Retrieve information from Wikipedia.
   
-  Get the current time.
+     Get the current time.
   
-  Basic conversational responses.
+     Basic conversational responses.
   
-  Open websites (e.g., YouTube).
+     Open websites (e.g., YouTube).
   
 **Tech Stack:**
 
